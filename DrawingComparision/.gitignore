@@ -1,0 +1,14 @@
+﻿# Visual Studio / .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.log
+*.pdb
+*.dbmdl
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
